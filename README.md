@@ -43,3 +43,7 @@
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/PosaKarthik/PosaKarthik/blob/output/github-contribution-grid-snake.svg)
+
+## 📊 3D Contribution Graph
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PosaKarthik&theme=tokyonight)
