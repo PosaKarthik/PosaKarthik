@@ -4,10 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Java+Developer;DSA+Learner;Future+Software+Engineer;Open+to+Software+Opportunities" />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Posa+Karthik;Java+Developer;DSA+Learner;Future+Software+Engineer" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Posa Karthik</h1>
 <h3 align="center">Java Developer | DSA Learner | Future Software Engineer</h3>
 
