@@ -48,10 +48,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=PosaKarthik&theme=tokyonight&row=1&column=6)
-
 ## 📊 3D Contribution Graph
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PosaKarthik&theme=tokyonight)
