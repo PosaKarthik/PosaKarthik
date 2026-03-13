@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Posa Karthik</h1>
 
+<h3 align="center">Java Developer | DSA Learner | Future Software Engineer</h3>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Java+Developer;DSA+Learner;Future+Software+Engineer;Open+to+Software+Opportunities" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Posa Karthik</h1>
-<h3 align="center">Java Developer | DSA Learner | Future Software Engineer</h3>
-
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **Java, Data Structures & Algorithms**
-- 💻 I practice coding on **LeetCode**
-- 🚀 Interested in **Software Development**
-- 🎯 Goal: Get placed in a **Software Company**
+### 👨‍💻 About Me
+- 🌱 Currently learning **Java, Data Structures & Algorithms, and Web Development**
+- 💻 Solving coding problems on **LeetCode**
+- 🚀 Interested in **Software & Web Development**
+- 🎯 Preparing for **Software Developer roles**
 
 ---
 
 ### 🛠️ Skills
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode" />
 </p>
 
@@ -46,6 +46,12 @@
 
 ![Snake animation](https://github.com/PosaKarthik/PosaKarthik/blob/output/github-contribution-grid-snake.svg)
 
+---
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=PosaKarthik&theme=tokyonight&row=1&column=6)
+
 ## 📊 3D Contribution Graph
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PosaKarthik&theme=tokyonight)
@@ -53,3 +59,9 @@
 ## 🧠 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/PosaKarthik?theme=dark&font=Baloo)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: posakarthik16@gmail.com
