@@ -9,7 +9,6 @@
 ---
 
 ### 👨‍💻 About Me
-### 👨‍💻 About Me
 - 🌱 Currently learning **Java, Data Structures & Algorithms, and Web Development**
 - 💻 Solving coding problems on **LeetCode**
 - 🚀 Interested in **Software & Web Development**
@@ -26,7 +25,9 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PosaKarthik&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PosaKarthik&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
