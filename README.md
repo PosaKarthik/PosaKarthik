@@ -78,19 +78,6 @@ public String goal() {
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/PosaKarthik">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PosaKarthik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/PosaKarthik">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PosaKarthik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</a>
-
-</div>
 
 ## 🔥 GitHub Streak
 
@@ -100,13 +87,6 @@ public String goal() {
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PosaKarthik&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
 
 ## 🚀 Featured Projects
 
