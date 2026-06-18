@@ -91,3 +91,11 @@ public String goal() {
 </a>
 
 </div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PosaKarthik&theme=tokyonight-duo&hide_border=true"/>
+
+</div>
