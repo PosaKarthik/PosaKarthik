@@ -99,3 +99,43 @@ public String goal() {
 <img src="https://streak-stats.demolab.com?user=PosaKarthik&theme=tokyonight-duo&hide_border=true"/>
 
 </div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PosaKarthik&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</div>
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|----------|-----------|-------------|
+| **Student Management System REST API** | Java, Spring Boot, MySQL | CRUD REST API with DTOs, Exception Handling, Swagger Integration |
+| **Consumer-Provider Microservice** | Spring Boot, WebClient | Inter-service communication using REST APIs and WebClient |
+| **Online Banking System** | Java, JDBC, MySQL | Banking application with account management and transaction history |
+
+## 🌱 Currently Learning
+
+```text
+🚀 Spring Boot → REST APIs → Microservices
+💻 DSA → LeetCode → Interview Preparation
+⚛️ React → Full Stack Development
+☁️ Software Engineering Best Practices
+```
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/posa-karthik-225353408">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
