@@ -38,8 +38,8 @@ public class PosaKarthik {
         "DSA"
     };
 
-    public String goal() {
-        return "Build scalable applications and grow as a Software Engineer";
-    }
+public String goal() {
+    return "Secure a Software Developer role and continuously improve my engineering skills";
+}
 }
 ```
